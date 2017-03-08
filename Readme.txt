@@ -2,23 +2,6 @@ Mini Project 5th Sem CS/IT Dept.
 
 Topic : IMPLEMENT TWO-PASS ASSEMBLER FOR SIC ARCHITECTURE
 
-Team members : 4
-
-1. KAMAL KUMAR BHARADWAJ
-   CS 5 ORANGE
-   ROLL NO. 5
-
-2. RAKESH OJHA
-   CS 5 ORANGE
-   ROLL NO. 30
-
-3. PULKIT KOHLI
-   CS 5 ORANGE
-   ROLL NO. 25
-
-4. SANCHIT GOYAL
-   CS 5 ORANGE
-   ROLL NO. 41
 
 Help:
 1.Code present in file "SIC2pass.C"
